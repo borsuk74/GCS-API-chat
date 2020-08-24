@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/aleks/AndroidStudioProjects/GCS-API -chat_beta/chatmessageview/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e9d16c24f21c75019a2c9fd1299150e57eaee17">
+        <dex dex="/home/aleks/AndroidStudioProjects/GCS-API -chat_beta/app/build/intermediates/transforms/dex/debug/folders/1000/4/classes_6524f3455108affa6012a09fa025521c04daa0a1/classes.dex" />
+    </item>
+
+</items>
